@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thebackroomdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Justin!
+- 👀 I’m interested in men, C#, fisting, movies, .NET, & continuous integration!
+- 🌱 I’m currently learning how the fuck to make CI/CD work in Azure
+- 💞️ I’m looking to collaborate on stuff?
+- 📫 How to reach me dev@thebackroom.app
 
 <!---
 thebackroomdev/thebackroomdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
